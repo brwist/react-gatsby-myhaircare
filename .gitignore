@@ -1,0 +1,7 @@
+!node_modules/gatsby-source-shopify
+node_modules
+netlify.toml
+public
+.cache
+.env
+node_modules
